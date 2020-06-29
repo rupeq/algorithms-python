@@ -6,3 +6,10 @@
 - Interpolation
 - Linear
 - Jump
+
+# Sort
+- Quick
+- Radix
+- Counting
+- Bubble
+- Merge
