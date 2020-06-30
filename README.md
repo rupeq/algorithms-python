@@ -21,3 +21,4 @@
 - Stack
 - Queue
 - Deque
+- Advanced linked list
