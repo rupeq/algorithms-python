@@ -22,3 +22,5 @@
 - Queue
 - Deque
 - Advanced linked list
+
+# Hash Table
