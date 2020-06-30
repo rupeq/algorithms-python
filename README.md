@@ -1,6 +1,7 @@
 # algorithms-python
 
 # Search
+
 - Binary
 - Quick Linear
 - Interpolation
@@ -8,8 +9,15 @@
 - Jump
 
 # Sort
+
 - Quick
 - Radix
 - Counting
 - Bubble
 - Merge
+
+# Limited access data types
+
+- Stack
+- Queue
+- Deque
