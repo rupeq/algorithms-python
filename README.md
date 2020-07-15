@@ -24,3 +24,7 @@
 - Advanced linked list
 
 # Hash Table
+
+# Graph
+
+- Dijkstra
