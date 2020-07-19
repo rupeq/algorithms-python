@@ -28,3 +28,7 @@
 # Graph
 
 - Dijkstra
+
+# Trees
+
+- BST
