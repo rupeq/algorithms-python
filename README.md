@@ -30,6 +30,7 @@
 - Dijkstra
 - Floyd-Warshall
 - BFS
+- DFS
 
 # Trees
 
